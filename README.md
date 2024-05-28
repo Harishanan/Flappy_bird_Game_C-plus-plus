@@ -1,4 +1,4 @@
-# Flappybird_1
+## Flappy Bird game
 
 ![Flappy bird game home page image](Homepage_image.png)
 Figure 1: Flappy bird game home page image.
@@ -9,3 +9,4 @@ Figure 1: Flappy bird game home page image.
 Figure 2: Flappy bird game play page image.
 <br>
 <br>
+
